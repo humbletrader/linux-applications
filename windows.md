@@ -40,6 +40,7 @@ General Purpose Apps
  * Video Player: VLC (replacing PotPlayer )
  * Music Player: [MusicBee](http://www.getmusicbee.com/)  
  * Audio converter: [fre:ac](https://www.freac.org/)
+ * Video converter: [HandBrake](https://handbrake.fr/downloads.php)
   
  Mouse and Windows enhancements
  --------------------------------
