@@ -1,6 +1,6 @@
 The following is a list of windows applications that I find useful: 
 
-#General Purpose
+General Purpose Apps
 -------------------
 * Archiver: [7Zip](http://www.7-zip.org/download.html) 
 * Instant Messaging (Skype, Slack, Facebook, WhatsApp) : [Franz](http://meetfranz.com/)
@@ -12,7 +12,7 @@ The following is a list of windows applications that I find useful:
 * Crapware uninstaller: PC Decrapifier 
 * Skitch - screen capture
  
- #Files and documents explorers
+ Files and documents
  --------------------------------
  * Explorer replacement: FreeCommander (XYPlorer tested but it's not free)
  * Search files and folders: [Everything](http://www.voidtools.com/download/)
@@ -24,7 +24,7 @@ The following is a list of windows applications that I find useful:
  * Search and index local files: [DocFetcher](http://sourceforge.net/projects/docfetcher/)
  * Document converter: [pandoc](http://pandoc.org/index.html)
 
- #App Launcers and Managers
+ App Launcers and Managers
  -------------------------
  * Icons Manager:  [TurboLaunch](http://www.savardsoftware.com/turbolaunch/)
  * App Launcher: [Wox](https://github.com/Wox-launcher/Wox) 
@@ -35,20 +35,20 @@ The following is a list of windows applications that I find useful:
  * Synchronize files and folders between locations: [SyncToy](http://www.microsoft.com/en-us/download/details.aspx?id=15155)
  * [Sysinternals suite](http://technet.microsoft.com/en-us/sysinternals/bb842062)
  
- #Audio/Video
+ Audio/Video
  ----------------
  * Video Player: VLC (replacing PotPlayer )
  * Music Player: [MusicBee](http://www.getmusicbee.com/)  
  * Audio converter: [fre:ac](https://www.freac.org/)
   
- #Mouse and Windows enhancements
+ Mouse and Windows enhancements
  --------------------------------
   * Mouse&Keyboard sharing: [Mouse without Borders](http://www.microsoft.com/en-gb/download/details.aspx?id=35460) (replacing Synergy)
   * [WizMouse](http://antibody-software.com/web/software/software/wizmouse-makes-your-mouse-wheel-work-on-the-window-under-the-mouse/) - mouse over non focused windows
   * resize & move windows: [reSizer](https://sites.google.com/site/zestant2/resizer3)  
   * Fences for Desktop : Stardock Fences
  
- #Command line enhancers
+ Command line enhancers
  ------------------------------
 * command line enhancers: [SFK](http://stahlworks.com/dev/swiss-file-knife.html) and [NirCmd](http://www.nirsoft.net/utils/nircmd.html) 
 * Source Control:  [svn command line client](https://subversion.apache.org/packages.html), [git command line client](https://git-scm.com/downloads)
@@ -56,14 +56,14 @@ The following is a list of windows applications that I find useful:
 * [Cmder](http://cmder.net/): command line enhancer for Windows (based on ConEmu)
 * File editor for command line : [Kinesics](http://turtlewar.org/projects/editor/)
  
- #Virtual desktops, sandboxing and virtualization
+ Virtual desktops, sandboxing and virtualization
  -------------------------------------------------
  * spoon.net ( www.spoon.net ) - ruleaza orice aplicatie free virtualizat
  * VirtuaWin (virtual desktops)
  * Sandbox for any application: [Sandboxie](www.sandboxie.com)
  * Create bootable linux USBs: Universal USB Installer (aka UUI)
  
-#Antivirus, Security 
+Antivirus, Security 
 ---------------------
  * VipreRescue - command line antivirus program ( http://live.vipreantivirus.com )
  * Antivirus: [Microsoft Security Essentials](http://windows.microsoft.com/en-us/windows/security-essentials-all-versions)
@@ -72,13 +72,13 @@ The following is a list of windows applications that I find useful:
  * Wireshark: network sniffing software
  * Website Attack Test: OWASP Zed Attack Proxy (ZAP) - security scans 
  
- #Development
- ----------------
+Development
+----------------
  * SQL client for MySql, MariaDB, MS SQL: [HeidiSQL](http://www.heidisql.com/)
  * platform idependent SQL Client - [DBeaver](http://dbeaver.jkiss.org/)
  * Hex Editor: [Frhed](http://frhed.sourceforge.net/en/)
  
-#Games
+Games
 ------------------
  * Games: 0. AD http://wildfiregames.com/0ad
  
