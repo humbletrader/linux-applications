@@ -4,7 +4,7 @@ General Purpose Apps
 -------------------
 * Archiver: [7Zip](http://www.7-zip.org/download.html) 
 * Instant Messaging (Skype, Slack, Facebook, WhatsApp) : [Franz](http://meetfranz.com/)
-* Evernote 
+* Notes and Evernote client: [NixNote2](http://nixnote.org/NixNote-Home/) 
 * Firefox
 * File Recovery: recuva
 * General Purpose Cleaner: CCleaner 
