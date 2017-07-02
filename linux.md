@@ -3,6 +3,7 @@ A list of applications to set up on any linux computer:
 General Purpose
 ------------------
 * Instant Messaging (Skype, Slack, Facebook, WhatsApp) : [Franz](http://meetfranz.com/)
+* Notes and Evernote client: [NixNote2](http://nixnote.org/NixNote-Home/) 
 
 Files and documents
 ------------------------
