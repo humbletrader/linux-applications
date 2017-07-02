@@ -12,6 +12,10 @@ Files and documents
 * office suite MS Office and ODF compatible: [OnlyOffice](https://www.onlyoffice.com/apps.aspx)
 * xchm - chm viewer 
 
+Audio and Video
+---------------------
+* Video converter: [HandBrake](https://handbrake.fr/downloads.php)
+
 Android 
 ---------------
 * connect your android with your desktop: [KDE Connect](https://community.kde.org/KDEConnect) 
