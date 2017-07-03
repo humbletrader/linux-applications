@@ -5,12 +5,12 @@ General Purpose Apps
 * Archiver: [7Zip](http://www.7-zip.org/download.html) 
 * Instant Messaging (Skype, Slack, Facebook, WhatsApp) : [Franz](http://meetfranz.com/)
 * Notes and Evernote client: [NixNote2](http://nixnote.org/NixNote-Home/) 
-* Firefox
+* Browsers: Firefox / Chrome / Midori
 * File Recovery: recuva
 * General Purpose Cleaner: CCleaner 
 * App Uninstaller: Geek Unistaller Portable (replacing revounistaller)
 * Crapware uninstaller: PC Decrapifier 
-* Skitch - screen capture
+* Screen Capture: [ShareX](https://getsharex.com/)
  
  Files and documents
  --------------------------------
