@@ -11,6 +11,7 @@ Desktop integration
 
 Command line enhancers 
 ------------------
+* Tiled command line: [Terminator](https://gnometerminator.blogspot.ro/p/introduction.html)
 * Command line text editor [Kinesics](http://turtlewar.org/projects/editor/)
 
 Files and documents
