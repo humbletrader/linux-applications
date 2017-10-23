@@ -10,6 +10,7 @@ Desktop integration
 * Dock application [Docky](https://launchpad.net/docky)
 
 Command line enhancers 
+------------------
 * Command line text editor [Kinesics](http://turtlewar.org/projects/editor/)
 
 Files and documents
