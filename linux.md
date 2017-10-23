@@ -5,9 +5,10 @@ General Purpose
 * Instant Messaging (Skype, Slack, Facebook, WhatsApp) : [Franz](http://meetfranz.com/)
 * Notes and Evernote client: [NixNote2](http://nixnote.org/NixNote-Home/) 
 
-Desktop integration
+Desktop enhancers
 ------------------
 * Dock application [Docky](https://launchpad.net/docky)
+* Window tiling manage [I3](https://i3wm.org/)
 
 Command line enhancers 
 ------------------
