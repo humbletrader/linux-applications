@@ -20,7 +20,7 @@ Files and documents
 * text and code editor [Kate](https://kate-editor.org/get-it/)
 * file explorer: [double commander](http://doublecmd.sourceforge.net/) 
 * office suite MS Office and ODF compatible: [OnlyOffice](https://www.onlyoffice.com/apps.aspx)
-* xchm - chm viewer 
+* ftp/sftp/scp/s3 client: [CrossFTP](http://www.crossftp.com/)
 
 Audio and Video
 ---------------------
