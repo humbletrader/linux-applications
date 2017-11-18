@@ -8,7 +8,7 @@ General Purpose
 Desktop enhancers
 ------------------
 * Dock application [Docky](https://launchpad.net/docky)
-* Window tiling manage [I3](https://i3wm.org/)
+* Window tiling manager [I3](https://i3wm.org/)
 
 Command line enhancers 
 ------------------
@@ -34,4 +34,5 @@ Android
 Development
 ------------------------
 * Platform independent Sql client: DBeaver 
+* Git graphical frontend: [Giggle](https://wiki.gnome.org/Apps/giggle)
 
