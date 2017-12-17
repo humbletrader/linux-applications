@@ -8,6 +8,7 @@ General Purpose
 Desktop enhancers
 ------------------
 * Dock application [Docky](https://launchpad.net/docky)
+* Tiling for Cinnamon [gTile](https://cinnamon-spices.linuxmint.com/extensions/view/21)
 * Window tiling manager [I3](https://i3wm.org/)
 
 Command line enhancers 
