@@ -23,7 +23,7 @@ Command line enhancers
 Files and documents
 ------------------------
 * text and code editor [Kate](https://kate-editor.org/get-it/)
-* file explorer: [double commander](http://doublecmd.sourceforge.net/) 
+* file explorer: [double commander](http://doublecmd.sourceforge.net/) (sudo apt install doublecmd-gtk)
 * office suite MS Office and ODF compatible: [OnlyOffice](https://www.onlyoffice.com/apps.aspx)
 * ftp/sftp/scp/s3 client: [CrossFTP](http://www.crossftp.com/)
 
