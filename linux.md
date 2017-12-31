@@ -26,6 +26,7 @@ Files and documents
 * file explorer: [double commander](http://doublecmd.sourceforge.net/) (sudo apt install doublecmd-gtk)
 * office suite MS Office and ODF compatible: [OnlyOffice](https://www.onlyoffice.com/apps.aspx)
 * ftp/sftp/scp/s3 client: [CrossFTP](http://www.crossftp.com/)
+* search in file contents [catfish](http://www.twotoasts.de/index.php/catfish/) (sudo apt install catfish)
 
 Audio and Video
 ---------------------
