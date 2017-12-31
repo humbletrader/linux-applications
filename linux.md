@@ -4,6 +4,7 @@ General Purpose
 ------------------
 * Instant Messaging (Skype, Slack, Facebook, WhatsApp) : [Franz](http://meetfranz.com/)
 * Notes and Evernote client: [NixNote2](http://nixnote.org/NixNote-Home/) 
+* System cleaner: bleachbit (sudo apt install bleachbit) 
 
 Desktop enhancers
 ------------------
@@ -13,8 +14,11 @@ Desktop enhancers
 
 Command line enhancers 
 ------------------
-* Tiled command line: [Terminator](https://gnometerminator.blogspot.ro/p/introduction.html)
-* Command line text editor [Kinesics](http://turtlewar.org/projects/editor/)
+* Simple cmd line text editor : Nano
+* Command line emulator : tmux
+* (Under test) Drop-down command line: guake 
+* (Under test) Very simple command line text editor [Kinesics](http://turtlewar.org/projects/editor/)
+* (Under test) Tiled command line: [Terminator](https://gnometerminator.blogspot.ro/p/introduction.html)
 
 Files and documents
 ------------------------
@@ -30,7 +34,6 @@ Audio and Video
 Android 
 ---------------
 * connect your android with your desktop: [KDE Connect](https://community.kde.org/KDEConnect) 
-
 
 Development
 ------------------------
