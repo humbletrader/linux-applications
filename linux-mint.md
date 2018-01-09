@@ -6,6 +6,7 @@ General Purpose
 * Notes and Evernote client: [NixNote2](http://nixnote.org/NixNote-Home/) 
 * System cleaner: bleachbit (sudo apt install bleachbit) 
 * Dconf editor: dconf-editor (sudo apt install dconf-editor)
+* Backup tool: timeshift (sudo apt install timeshift)
 
 Desktop enhancers
 ------------------
