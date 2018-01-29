@@ -1,9 +1,6 @@
-A list of applications to set up on any linux computer: 
+# A list of applications to set up on any linux computer: 
 
-TODO: 
-add a link to ppa:nvidia drivers
-
-General Purpose
+General Purpose Apps
 ------------------
 * Instant Messaging (Skype, Slack, Facebook, WhatsApp) : [Franz](http://meetfranz.com/)
 * Notes and Evernote client: [NixNote2](http://nixnote.org/NixNote-Home/) 
