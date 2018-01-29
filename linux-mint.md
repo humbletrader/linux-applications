@@ -1,5 +1,8 @@
 A list of applications to set up on any linux computer: 
 
+TODO: 
+add a link to ppa:nvidia drivers
+
 General Purpose
 ------------------
 * Instant Messaging (Skype, Slack, Facebook, WhatsApp) : [Franz](http://meetfranz.com/)
