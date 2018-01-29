@@ -19,7 +19,7 @@ General Purpose Apps
  * Pdf reader: Sumatra PDF
  * Pdf merge, delete : PDFTK Builder
  * Simple text editor: [Scite](http://www.scintilla.org/SciTE.html)
- * Powerful text editor: [PdPad](http://www.pspad.com/en/download.php)
+ * Powerful text editor: [PsPad](http://www.pspad.com/en/download.php)
  * eBook converter: [TEBookConverter](http://sourceforge.net/projects/tebookconverter/)
  * Search and index local files: [DocFetcher](http://sourceforge.net/projects/docfetcher/)
  * Document converter: [pandoc](http://pandoc.org/index.html)
