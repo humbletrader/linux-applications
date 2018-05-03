@@ -34,6 +34,7 @@ Files and documents
 Audio and Video
 ---------------------
 * Video converter: [HandBrake](https://handbrake.fr/downloads.php)
+* Audio / Podcast / Spotify / Cloud files player: [Clementine](https://www.clementine-player.org/downloads)
 
 Android 
 ---------------
