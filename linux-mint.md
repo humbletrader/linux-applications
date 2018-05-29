@@ -46,3 +46,7 @@ Development
 * Platform independent Sql client: [DBeaver](https://dbeaver.jkiss.org/) 
 * Git graphical frontend: [Giggle](https://wiki.gnome.org/Apps/giggle)
 
+Cloud Storage 
+------------------------
+* Command line cloud sync tool: [rclone](https://rclone.org)
+
