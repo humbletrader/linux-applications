@@ -20,8 +20,8 @@ alias lstrash='ls -la ~/.local/share/Trash/files' #list the files in the trash f
 
 
 #git shortcuts
-alias st='git status'
-
+alias gst='git status'
+alias glog='git log --oneline --decorate -n 10'
 
 #alias helpers 
 alias showalias='less ~/.bash_aliases'
