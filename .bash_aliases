@@ -18,6 +18,8 @@ alias lstrash='ls -la ~/.local/share/Trash/files' #list the files in the trash f
 
 #maven shortcuts
 
+#ps helpers
+alias ps='ps fauxwww'
 
 #git shortcuts
 alias gst='git status'
