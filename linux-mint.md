@@ -43,7 +43,7 @@ Android
 
 Development
 ------------------------
-* Platform independent Sql client: [DBeaver](https://dbeaver.jkiss.org/) 
+* Platform independent Sql client: [DBeaver](https://dbeaver.jkiss.org/) or sudo add-apt-repository ppa:serge-rider/dbeaver-ce
 * Git graphical frontend: [Giggle](https://wiki.gnome.org/Apps/giggle)
 
 Cloud Storage 
