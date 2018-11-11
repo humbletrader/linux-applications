@@ -18,10 +18,8 @@ Desktop enhancers
 Command line enhancers 
 ------------------
 * Simple cmd line text editor : Nano
-* Command line emulator : tmux
-* (Under test) Drop-down command line: guake 
+* Command line session/window/tab support : [tmux](https://github.com/rothgar/awesome-tmux/blob/master/README.md)
 * (Under test) Very simple command line text editor [Kinesics](http://turtlewar.org/projects/editor/)
-* (Under test) Tiled command line: [Terminator](https://gnometerminator.blogspot.ro/p/introduction.html)
 
 Files and documents
 ------------------------
