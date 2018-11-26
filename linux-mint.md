@@ -41,6 +41,7 @@ Android
 
 Development
 ------------------------
+* manager of various SDKs (java, scala, groovy, maven, gradle, etc): [sdkman.io](http://sdkman.io). Install script: curl -s "https://get.sdkman.io" | bash
 * Platform independent Sql client: [DBeaver](https://dbeaver.jkiss.org/) or sudo add-apt-repository ppa:serge-rider/dbeaver-ce
 * Git graphical frontend: [Giggle](https://wiki.gnome.org/Apps/giggle)
 
