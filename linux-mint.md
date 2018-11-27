@@ -3,7 +3,10 @@
 General Purpose Apps
 ------------------
 * Instant Messaging (Skype, Slack, Facebook, WhatsApp) : [Franz](http://meetfranz.com/)
-* Notes and Evernote client: [NixNote2](http://nixnote.org/NixNote-Home/) 
+* Notes and Evernote client: 
+    * [NixNote2](http://nixnote.org/NixNote-Home/) 
+    * [Tusk](https://github.com/klaussinani/tusk) - in tests
+
 * System cleaner: bleachbit (sudo apt install bleachbit) 
 * Dconf editor: dconf-editor (sudo apt install dconf-editor)
 * Backup tool: timeshift (sudo apt install timeshift)
