@@ -27,11 +27,16 @@ Command line enhancers
 Files and documents
 ------------------------
 * text and code editor [Kate](https://kate-editor.org/get-it/)
-* file explorer: [double commander](http://doublecmd.sourceforge.net/) (sudo apt install doublecmd-gtk)
-* file explorer (under test): [polo](https://github.com/teejee2008/polo)
+* file explorer: 
+      * [double commander](http://doublecmd.sourceforge.net/) (sudo apt install doublecmd-gtk)
+      * (under test): [polo](https://github.com/teejee2008/polo)
 * office suite MS Office and ODF compatible: [OnlyOffice](https://www.onlyoffice.com/apps.aspx)
 * ftp / sftp / scp /s3 client: [CrossFTP](http://www.crossftp.com/)
-* search in file contents [catfish](http://www.twotoasts.de/index.php/catfish/) (sudo apt install catfish)
+* search in file contents [catfish](http://www.twotoasts.de/index.php/catfish/) 
+```bash 
+sudo apt install catfish
+```
+* command line html, xml and json parser: [Xidel](http://www.videlibri.de/xidel.html)
 
 Audio and Video
 ---------------------
