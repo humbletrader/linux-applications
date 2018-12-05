@@ -27,6 +27,8 @@ Command line enhancers
    ```bash
    git clone https://github.com/lucaswerkmeister/cheats.git
    ```
+* cheat : linux commands reminder
+* [httpie](https://github.com/jakubroztocil/httpie) : user friendly replacement for curl and wget 
 
 Files and documents
 ------------------------
