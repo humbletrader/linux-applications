@@ -31,7 +31,7 @@ Command line enhancers
    ```bash
    git clone https://github.com/lucaswerkmeister/cheats.git
    ```
-* cheat : linux commands reminder
+* [cheat](https://github.com/chrisallenlane/cheat) : linux commands reminder
 * [httpie](https://github.com/jakubroztocil/httpie) : user friendly replacement for curl and wget 
    ```bash
    apt install httpie
