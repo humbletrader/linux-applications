@@ -20,6 +20,10 @@ Desktop enhancers
 
 Command line enhancers 
 ------------------
+* command line file explorer: [ranger](https://github.com/ranger/ranger)
+   ```baah
+   apt install ranger
+   ```
 * Simple cmd line text editor : Nano
 * Command line session/window/tab support : [tmux](https://github.com/rothgar/awesome-tmux/blob/master/README.md)
 * (Under test) Very simple command line text editor [Kinesics](http://turtlewar.org/projects/editor/)
@@ -29,6 +33,9 @@ Command line enhancers
    ```
 * cheat : linux commands reminder
 * [httpie](https://github.com/jakubroztocil/httpie) : user friendly replacement for curl and wget 
+   ```bash
+   apt install httpie
+   ```
 
 Files and documents
 ------------------------
@@ -39,9 +46,9 @@ Files and documents
 * office suite MS Office and ODF compatible: [OnlyOffice](https://www.onlyoffice.com/apps.aspx)
 * ftp / sftp / scp /s3 client: [CrossFTP](http://www.crossftp.com/)
 * search in file contents [catfish](http://www.twotoasts.de/index.php/catfish/) 
-```bash 
-sudo apt install catfish
-```
+   ```bash 
+   sudo apt install catfish
+   ```
 * command line html, xml and json parser: [Xidel](http://www.videlibri.de/xidel.html)
 
 Audio and Video
