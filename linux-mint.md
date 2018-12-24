@@ -13,6 +13,11 @@ General Purpose Apps
 
 Desktop enhancers
 ------------------
+* Application Launcher [Ulauncher](https://ulauncher.io/)
+   ```bash
+   sudo add-apt-repository ppa:agornostal/ulauncher
+   apt install ulauncher
+   ```
 * Dock application [Docky](https://launchpad.net/docky)  (it depends on mono) 
 * Dock application (under test) [CinnaDock Plus](https://cinnamon-spices.linuxmint.com/extensions/view/35) 
 * Tiling for Cinnamon [gTile](https://cinnamon-spices.linuxmint.com/extensions/view/21)
@@ -21,7 +26,7 @@ Desktop enhancers
 Command line enhancers 
 ------------------
 * command line file explorer: [ranger](https://github.com/ranger/ranger)
-   ```baah
+   ```bash
    apt install ranger
    ```
 * Simple cmd line text editor : Nano
