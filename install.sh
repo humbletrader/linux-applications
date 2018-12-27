@@ -2,7 +2,12 @@
 
 #missing sudo here
 
-#missing install snap
+# installing package managers
+apt install snapd
+
+# installing applications
+snap install --classic skype
+
 snap install cheat
 
 apt install ranger
