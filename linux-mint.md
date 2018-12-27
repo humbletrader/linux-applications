@@ -1,8 +1,21 @@
 # A list of applications to set up on any linux computer: 
 
+Package managers
+-----------------
+* Snap
+```bash
+apt install snapd
+```
+
 General Purpose Apps
 ------------------
-* Instant Messaging (Skype, Slack, Facebook, WhatsApp) : [Franz](http://meetfranz.com/)
+* Instant Messaging : 
+   * Skype: 
+   ```bash
+   snap install --classic skype
+   ```
+   
+   * (Skype, Slack, Facebook, WhatsApp) : [Franz](http://meetfranz.com/)
 * Notes and Evernote client: 
     * [NixNote2](http://nixnote.org/NixNote-Home/) 
     * [Tusk](https://github.com/klaussinani/tusk) - in tests
