@@ -31,8 +31,6 @@ Desktop enhancers
    sudo add-apt-repository ppa:agornostal/ulauncher
    apt install ulauncher
    ```
-* Dock application [Docky](https://launchpad.net/docky)  (it depends on mono) 
-* Dock application (under test) [CinnaDock Plus](https://cinnamon-spices.linuxmint.com/extensions/view/35) 
 * Tiling for Cinnamon [gTile](https://cinnamon-spices.linuxmint.com/extensions/view/21)
 * Window tiling manager [I3](https://i3wm.org/)
 
