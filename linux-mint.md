@@ -42,7 +42,6 @@ Command line enhancers
    ```
 * Simple cmd line text editor : Nano
 * Command line session/window/tab support : [tmux](https://github.com/rothgar/awesome-tmux/blob/master/README.md)
-* (Under test) Very simple command line text editor [Kinesics](http://turtlewar.org/projects/editor/)
 * [cheats](http://github.com/lucaswerkmeister/cheats)
    ```bash
    git clone https://github.com/lucaswerkmeister/cheats.git
