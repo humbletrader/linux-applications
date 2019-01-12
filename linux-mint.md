@@ -18,7 +18,10 @@ General Purpose Apps
    * (Skype, Slack, Facebook, WhatsApp) : [Franz](http://meetfranz.com/)
 * Notes and Evernote client: 
     * [NixNote2](http://nixnote.org/NixNote-Home/) 
-    * [Tusk](https://github.com/klaussinani/tusk) - in tests
+    ```bash
+    apt install nixnote2
+    ```
+    replacing [Tusk](https://github.com/klaussinani/tusk)
 
 * System cleaner: bleachbit (sudo apt install bleachbit) 
 * Dconf editor: dconf-editor (sudo apt install dconf-editor)
