@@ -1,4 +1,6 @@
-
+########################################################################
+#                WARNING : SCRIPT UNDER CONSTRUCTION
+########################################################################3
 
 #missing sudo here
 
@@ -12,6 +14,7 @@ snap install cheat
 
 apt install ranger
 apt install httpie
+apt install rclone
 
 cd ~
 
