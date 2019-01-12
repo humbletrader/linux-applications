@@ -89,4 +89,5 @@ curl -s "https://get.sdkman.io" | bash
 Cloud Storage 
 ------------------------
 * Command line cloud sync tool: [rclone](https://rclone.org)
+* UI for Rclone: [RcloneBrowser](https://martins.ninja/RcloneBrowser/
 
