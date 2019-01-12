@@ -104,5 +104,5 @@ Cloud Storage
 ```bash
 apt install rclone
 ```
-* UI for Rclone: [RcloneBrowser](https://martins.ninja/RcloneBrowser/
+* UI for Rclone: [RcloneBrowser](https://martins.ninja/RcloneBrowser/)
 
