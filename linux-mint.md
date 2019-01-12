@@ -23,9 +23,18 @@ General Purpose Apps
     ```
     replacing [Tusk](https://github.com/klaussinani/tusk)
 
-* System cleaner: bleachbit (sudo apt install bleachbit) 
-* Dconf editor: dconf-editor (sudo apt install dconf-editor)
-* Backup tool: timeshift (sudo apt install timeshift)
+* System cleaner: bleachbit 
+```bash
+  apt install bleachbit
+ ```
+* Dconf editor: dconf-editor 
+```bash
+apt install dconf-editor)
+```
+* Backup tool: timeshift 
+```bash
+apt install timeshift
+```
 
 Desktop enhancers
 ------------------
