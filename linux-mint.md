@@ -48,10 +48,11 @@ Desktop enhancers
 
 Command line enhancers 
 ------------------
-* command line file explorer: [ranger](https://github.com/ranger/ranger)
-   ```bash
-   apt install ranger
-   ```
+* command line file explorer: 
+[nnn](https://github.com/jarun/nnn) replacing [ranger](https://github.com/ranger/ranger)
+```
+  apt install nnn
+```
 * Simple cmd line text editor : Nano
 * Command line session/window/tab support : [tmux](https://github.com/rothgar/awesome-tmux/blob/master/README.md)
 * [cheats](http://github.com/lucaswerkmeister/cheats)
