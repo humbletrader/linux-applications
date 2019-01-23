@@ -13,7 +13,7 @@ snap install cheat
 
 # apt applications
 apt install nixnote2
-apt install ranger
+apt install nnn
 apt install httpie
 apt install rclone
 apt install bleachbit
