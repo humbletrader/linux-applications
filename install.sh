@@ -19,6 +19,7 @@ apt install rclone
 apt install bleachbit
 apt install dconf-editor
 apt install timeshift
+apt install pass
 
 # applications dependent on other package managers / storage sites (i.e. github.com)
 cd ~
