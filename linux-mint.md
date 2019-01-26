@@ -3,7 +3,7 @@
 Package managers
 -----------------
 * Snap
-```bash
+```
 apt install snapd
 ```
 
@@ -11,35 +11,35 @@ General Purpose Apps
 ------------------
 * Instant Messaging : 
    * Skype: 
-   ```bash
+   ```
    snap install --classic skype
    ```
    
    * (Skype, Slack, Facebook, WhatsApp) : [Franz](http://meetfranz.com/)
 * Notes and Evernote client: 
     * [NixNote2](http://nixnote.org/NixNote-Home/) 
-    ```bash
+    ```
     apt install nixnote2
     ```
     replacing [Tusk](https://github.com/klaussinani/tusk)
 
 * System cleaner: bleachbit 
-```bash
+```
   apt install bleachbit
  ```
 * Dconf editor: dconf-editor 
-```bash
+```
 apt install dconf-editor)
 ```
 * Backup tool: timeshift 
-```bash
+```
 apt install timeshift
 ```
 
 Desktop enhancers
 ------------------
 * Application Launcher [Ulauncher](https://ulauncher.io/)
-   ```bash
+   ```
    sudo add-apt-repository ppa:agornostal/ulauncher
    apt install ulauncher
    ```
@@ -48,21 +48,24 @@ Desktop enhancers
 
 Command line enhancers 
 ------------------
-* command line file explorer: 
-[nnn](https://github.com/jarun/nnn) replacing [ranger](https://github.com/ranger/ranger)
+* command line file explorer: [nnn](https://github.com/jarun/nnn) replacing [ranger](https://github.com/ranger/ranger)
 ```
   apt install nnn
 ```
 * Simple cmd line text editor : Nano
 * Command line session/window/tab support : [tmux](https://github.com/rothgar/awesome-tmux/blob/master/README.md)
 * [cheats](http://github.com/lucaswerkmeister/cheats)
-   ```bash
+   ```
    git clone https://github.com/lucaswerkmeister/cheats.git
    ```
 * [cheat](https://github.com/chrisallenlane/cheat) : linux commands reminder
 * [httpie](https://github.com/jakubroztocil/httpie) : user friendly replacement for curl and wget 
-   ```bash
+   ```
    apt install httpie
+   ```
+* [pass](https://www.passwordstore.org/) : command line password manager
+  ```
+   apt install pass
    ```
 
 Files and documents
@@ -76,7 +79,7 @@ Files and documents
 * office suite MS Office and ODF compatible: [OnlyOffice](https://www.onlyoffice.com/apps.aspx)
 * ftp / sftp / scp /s3 client: [CrossFTP](http://www.crossftp.com/)
 * search in file contents [catfish](http://www.twotoasts.de/index.php/catfish/) 
-   ```bash 
+   ```
    sudo apt install catfish
    ```
 * command line html, xml and json parser: [Xidel](http://www.videlibri.de/xidel.html)
@@ -93,11 +96,11 @@ Android
 Development
 ------------------------
 * manager of various SDKs (java, scala, groovy, maven, gradle, etc): [sdkman.io](http://sdkman.io). 
-```bash
+```
 curl -s "https://get.sdkman.io" | bash
 ```
 * Platform independent Sql client: [DBeaver](https://dbeaver.jkiss.org/) 
-```bash
+```
 sudo add-apt-repository ppa:serge-rider/dbeaver-ce
 apt install dbeaver-ce
 ```
@@ -106,7 +109,7 @@ apt install dbeaver-ce
 Cloud Storage 
 ------------------------
 * Command line cloud sync tool: [rclone](https://rclone.org)
-```bash
+```
 apt install rclone
 ```
 * UI for Rclone: [RcloneBrowser](https://martins.ninja/RcloneBrowser/)
