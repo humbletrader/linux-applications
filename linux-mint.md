@@ -83,6 +83,10 @@ Files and documents
    sudo apt install catfish
    ```
 * command line html, xml and json parser: [Xidel](http://www.videlibri.de/xidel.html)
+* command line document converter (word, markdown, pdf) : pandoc
+```shell
+  sudo apt install pandoc
+```
 
 Audio and Video
 ---------------------
