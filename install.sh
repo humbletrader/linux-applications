@@ -20,6 +20,8 @@ apt install bleachbit
 apt install dconf-editor
 apt install timeshift
 apt install pass
+apt install asciidoctor
+apt install pandoc
 
 # applications dependent on other package managers / storage sites (i.e. github.com)
 cd ~
