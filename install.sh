@@ -10,6 +10,7 @@ apt install snapd
 # installing snap dependent applications
 snap install --classic skype
 snap install cheat
+snap install insomnia
 
 # apt applications
 apt install nixnote2
