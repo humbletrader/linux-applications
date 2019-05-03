@@ -101,15 +101,19 @@ Android
 Development
 ------------------------
 * manager of various SDKs (java, scala, groovy, maven, gradle, etc): [sdkman.io](http://sdkman.io). 
-```
+```bash
 curl -s "https://get.sdkman.io" | bash
 ```
 * Platform independent Sql client: [DBeaver](https://dbeaver.jkiss.org/) 
-```
+```bash
 sudo add-apt-repository ppa:serge-rider/dbeaver-ce
 apt install dbeaver-ce
 ```
 * Git graphical frontend: [Giggle](https://wiki.gnome.org/Apps/giggle)
+* Rest client : [Insomnia](https://insomnia.rest/)
+```bash
+ sudo snap install insomnia
+ ```
 
 Cloud Storage 
 ------------------------
