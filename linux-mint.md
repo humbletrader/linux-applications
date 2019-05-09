@@ -64,9 +64,13 @@ Command line enhancers
    apt install httpie
    ```
 * [pass](https://www.passwordstore.org/) : command line password manager
-  ```
+  ```bash
    apt install pass
    ```
+* [asciinema](https://asciinema.org/) : command line recorder
+```bash
+apt install asciinema
+```
 
 Files and documents
 ------------------------
