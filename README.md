@@ -6,3 +6,4 @@ applications to setup on a new computer:
 
 # awesome lists for linux
 * [awesome linux software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+* [awesome cli](https://github.com/agarrharr/awesome-cli-apps#database)
