@@ -23,6 +23,7 @@ apt install timeshift
 apt install pass
 apt install asciidoctor
 apt install pandoc
+apt install asciinema
 
 # applications dependent on other package managers / storage sites (i.e. github.com)
 cd ~
