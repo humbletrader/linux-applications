@@ -100,7 +100,9 @@ Audio and Video
 
 Android 
 ---------------
-* connect your android with your desktop: [KDE Connect](https://community.kde.org/KDEConnect) 
+* connect your android with your desktop and browser: [GD Connect](https://github.com/andyholmes/gnome-shell-extension-gsconnect)
+previously [KDE Connect](https://community.kde.org/KDEConnect) 
+
 
 Development
 ------------------------
