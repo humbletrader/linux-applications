@@ -38,6 +38,12 @@ cd cheats
 ./install.sh
 cd -
 
-
 #cleanup
 rm -r temp
+
+mkdir ~/installations
+cd ~/installations
+git clone --depth 1 https://github.com/junegunn/fzf.git
+cd fzf
+./install
+
