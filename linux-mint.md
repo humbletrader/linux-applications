@@ -71,6 +71,11 @@ Command line enhancers
 ```bash
 apt install asciinema
 ```
+* [fzf](https://github.com/junegunn/fzf)
+```bash
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/installations/.fzf
+~/installations/fzf/install
+```
 
 Files and documents
 ------------------------
