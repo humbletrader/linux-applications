@@ -93,9 +93,13 @@ Files and documents
    ```
 * command line html, xml and json parser: [Xidel](http://www.videlibri.de/xidel.html)
 * command line document converters (word, markdown, pdf, html, asciidoc) : asciidoctor + pandoc
-```shell
+```bash
   sudo apt install asciidoctor
   sudo apt install pandoc
+```
+* disk utilization viewer (GUI and CLI) : [duc](https://duc.zevv.nl/)
+```bash
+apt install duc
 ```
 
 Audio and Video
