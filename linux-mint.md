@@ -125,6 +125,10 @@ sudo add-apt-repository ppa:serge-rider/dbeaver-ce
 apt install dbeaver-ce
 ```
 * Git graphical frontend: [Giggle](https://wiki.gnome.org/Apps/giggle)
+* Git graphical gui GitKraken : under test
+```bash
+sudo snap install gitkraken
+```
 * Rest client : [Insomnia](https://insomnia.rest/)
 ```bash
  sudo snap install insomnia
