@@ -25,6 +25,10 @@ apt install asciidoctor
 apt install pandoc
 apt install asciinema
 
+add-apt-repository ppa:nilarimogard/webupd8
+apt update
+apt install youtube-dlg
+
 # applications dependent on other package managers / storage sites (i.e. github.com)
 cd ~
 
