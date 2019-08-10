@@ -16,10 +16,10 @@ General Purpose Apps
    ```
    
    * (Skype, Slack, Facebook, WhatsApp) : [Franz](http://meetfranz.com/)
-* Notes and Evernote client: 
-    * [NixNote2](http://nixnote.org/NixNote-Home/) 
+* Notes (Evernote replacement): 
+    * [Joplin](https://joplinapp.org/) - replacing [NixNote2](http://nixnote.org/NixNote-Home/) 
     ```
-    apt install nixnote2
+    wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash
     ```
     replacing [Tusk](https://github.com/klaussinani/tusk)
 
