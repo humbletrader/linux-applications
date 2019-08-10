@@ -12,6 +12,9 @@ snap install --classic skype
 snap install cheat
 snap install insomnia
 
+# note taking applications (joplin)
+wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash
+
 # apt applications
 apt install nixnote2
 apt install nnn
