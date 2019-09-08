@@ -17,7 +17,8 @@ General Purpose Apps
    
    * (Skype, Slack, Facebook, WhatsApp) : [Franz](http://meetfranz.com/)
 * Notes (Evernote replacement): 
-    * [Joplin](https://joplinapp.org/) - replacing [NixNote2](http://nixnote.org/NixNote-Home/) 
+    * [Joplin](https://joplinapp.org/)
+    * [Notable](https://github.com/notable/notable) - currently under test - challenger for joplin
     ```
     wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash
     ```
