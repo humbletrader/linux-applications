@@ -149,3 +149,10 @@ apt install rclone
 ```
 * UI for Rclone: [RcloneBrowser](https://martins.ninja/RcloneBrowser/)
 
+UI changes 
+------------------------
+[Paper theme and Icon packs](https://snwh.org/paper/download)
+```
+sudo add-apt-repository -u ppa:snwh/ppa
+sudo apt install paper-icon-theme
+```
