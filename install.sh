@@ -54,3 +54,7 @@ git clone --depth 1 https://github.com/junegunn/fzf.git
 cd fzf
 ./install
 
+# games
+## tetris
+sudo snap install tetris-thefenriswolf
+
