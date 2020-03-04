@@ -156,3 +156,9 @@ UI changes
 sudo add-apt-repository -u ppa:snwh/ppa
 sudo apt install paper-icon-theme
 ```
+
+# Games and Linux Candies
+[Tetris in shell](https://github.com/samtay/tetris)
+```shell script
+sudo snap install tetris-thefenriswolf
+```
