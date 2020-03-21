@@ -78,6 +78,17 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/installations/.fzf
 ~/installations/fzf/install
 ```
 
+## System tools
+### System optimizer and monitoring
+[Stacer](https://github.com/oguzhaninan/Stacer)
+```
+    sudo add-apt-repository ppa:oguzhaninan/stacer -y
+    sudo apt-get update
+    sudo apt-get install stacer -y
+```
+
+
+
 Files and documents
 ------------------------
 * text and code editor [Kate](https://kate-editor.org/get-it/)
