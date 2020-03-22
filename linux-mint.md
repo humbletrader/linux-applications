@@ -87,8 +87,6 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/installations/.fzf
     sudo apt-get install stacer -y
 ```
 
-
-
 Files and documents
 ------------------------
 * text and code editor [Kate](https://kate-editor.org/get-it/)
@@ -151,6 +149,9 @@ sudo snap install gitkraken
 ```bash
  sudo snap install insomnia
  ```
+ 
+ * JetBrains Toolbox [access all Jetbrains tools and updates](https://www.jetbrains.com/toolbox-app/)
+ Manual download ( not supported in install script.sh)
 
 Cloud Storage 
 ------------------------
