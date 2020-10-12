@@ -46,6 +46,7 @@ Desktop enhancers
    ```
 * Tiling for Cinnamon [gTile](https://cinnamon-spices.linuxmint.com/extensions/view/21)
 * Window tiling manager [I3](https://i3wm.org/)
+* Clipboard manager [CopyQ](https://github.com/hluk/CopyQ)
 
 Command line enhancers 
 ------------------
