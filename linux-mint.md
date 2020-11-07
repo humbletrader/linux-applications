@@ -19,6 +19,7 @@ General Purpose Apps
 * Notes (Evernote replacement): 
     * [Joplin](https://joplinapp.org/)
     * [Notable](https://github.com/notable/notable) - currently under test - challenger for joplin
+    * [Standard Notes](https://standardnotes.org/) - very good by requires payd subscription
     ```
     wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash
     ```
