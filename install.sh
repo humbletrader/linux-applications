@@ -27,6 +27,7 @@ apt install pass
 apt install asciidoctor
 apt install pandoc
 apt install asciinema
+apt install hexcurse
 
 add-apt-repository ppa:nilarimogard/webupd8
 apt update
