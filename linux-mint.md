@@ -151,6 +151,10 @@ sudo snap install gitkraken
 ```bash
  sudo snap install insomnia
  ```
+ * Hex editor: [hexcurse](https://github.com/LonnyGomes/hexcurse)
+ ```bash
+ sudo apt install hexcurse
+ ```
  
  * JetBrains Toolbox [access all Jetbrains tools and updates](https://www.jetbrains.com/toolbox-app/)
  Manual download ( not supported in install script.sh)
