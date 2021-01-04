@@ -79,6 +79,11 @@ apt install asciinema
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/installations/.fzf
 ~/installations/fzf/install
 ```
+* [taskwarrior](http://taskwarrrior.org)
+```bash
+  apt install taskwarrior
+```
+
 
 ## System tools
 ### System optimizer and monitoring
