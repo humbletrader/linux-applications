@@ -13,6 +13,8 @@ sdk install spark 2.4.7
 # note taking applications (joplin)
 wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash
 
+apt install git
+
 # installing package managers
 apt install snapd
 
