@@ -138,6 +138,10 @@ previously [KDE Connect](https://community.kde.org/KDEConnect)
 
 Development
 ------------------------
+* git
+```bash
+apt install git
+```
 * manager of various SDKs (java, scala, groovy, maven, gradle, etc): [sdkman.io](http://sdkman.io). 
 ```bash
 curl -s "https://get.sdkman.io" | bash
