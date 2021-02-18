@@ -10,6 +10,9 @@ sdk install maven 3.6.3
 sdk install scala 2.13.4
 sdk install spark 2.4.7
 
+# note taking applications (joplin)
+wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash
+
 # installing package managers
 apt install snapd
 
@@ -18,11 +21,8 @@ snap install --classic skype
 snap install cheat
 snap install insomnia
 
-# note taking applications (joplin)
-wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash
 
 # apt applications
-apt install nixnote2
 apt install nnn
 apt install httpie
 apt install rclone
