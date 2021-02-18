@@ -4,6 +4,12 @@
 
 #missing sudo here
 
+# missing install sdkman first 
+sdk install java 15.0.2.j9-adpt
+sdk install maven 3.6.3
+sdk install scala 2.13.4
+sdk install spark 2.4.7
+
 # installing package managers
 apt install snapd
 
