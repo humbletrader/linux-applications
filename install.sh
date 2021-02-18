@@ -4,7 +4,8 @@
 
 #missing sudo here
 
-# missing install sdkman first 
+# sdkman and some of its provided assets
+curl -s "https://get.sdkman.io" | bash
 sdk install java 15.0.2.j9-adpt
 sdk install maven 3.6.3
 sdk install scala 2.13.4
