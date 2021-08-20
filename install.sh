@@ -3,6 +3,10 @@
 ########################################################################3
 
 #missing sudo here
+cd ~
+mkdir apps
+cd apps
+
 
 # sdkman and some of its provided assets
 curl -s "https://get.sdkman.io" | bash
@@ -10,12 +14,24 @@ sdk install java 15.0.2.j9-adpt
 sdk install maven 3.6.3
 sdk install scala 2.13.4
 sdk install spark 2.4.7
+sdk install visualvm 2.0.6
 
 # note taking applications (joplin)
 wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash
 
 apt install git
 apt instlal htop
+apt install vim
+apt install nnn
+apt install httpie
+apt install rclone
+apt install bleachbit
+apt install dconf-editor
+apt install xclip
+
+# non apt applicaitons
+git clone --depth=1 https://github.com/Bash-it/bash-it.git ~/.bash_it
+./bash_it/install.sh
 
 # installing package managers
 apt install snapd
@@ -25,13 +41,7 @@ snap install --classic skype
 snap install cheat
 snap install insomnia
 
-
-# apt applications
-apt install nnn
-apt install httpie
-apt install rclone
-apt install bleachbit
-apt install dconf-editor
+# other applications
 apt install timeshift
 apt install pass
 apt install asciidoctor
