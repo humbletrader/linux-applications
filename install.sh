@@ -70,11 +70,14 @@ cd -
 #cleanup
 rm -r temp
 
-mkdir ~/installations
-cd ~/installations
+mkdir ~/installs
+cd ~/installs
 git clone --depth 1 https://github.com/junegunn/fzf.git
 cd fzf
 ./install
+
+# heroku
+curl https://cli-assets.heroku.com/install.sh | sh
 
 # games
 ## tetris
