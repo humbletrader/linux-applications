@@ -164,6 +164,10 @@ sudo snap install gitkraken
  ```bash
  sudo apt install hexcurse
  ```
+ * Heroku client
+```bash
+curl https://cli-assets.heroku.com/install.sh | sh
+```
  
  * JetBrains Toolbox [access all Jetbrains tools and updates](https://www.jetbrains.com/toolbox-app/)
  Manual download ( not supported in install script.sh)
