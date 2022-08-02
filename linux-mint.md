@@ -123,11 +123,10 @@ Audio and Video
 ---------------------
 * Video converter: [HandBrake](https://handbrake.fr/downloads.php)
 * Audio / Podcast / Spotify / Cloud files player: [Clementine](https://www.clementine-player.org/downloads)
-* Youtube downloader GUI [youtube-dlg](https://github.com/MrS0m30n3/youtube-dl-gui) 
+* Youtube downloader GUI [yt-dlp](https://github.com/yt-dlp/yt-dlp) 
 ```bash
-sudo add-apt-repository ppa:nilarimogard/webupd8
-sudo apt update
-sudo apt install youtube-dlg
+sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o ~/instal/yt-dlp
+sudo chmod a+rx ~/install/yt-dlp
 ```
 
 Android 
