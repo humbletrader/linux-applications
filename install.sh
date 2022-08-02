@@ -50,9 +50,8 @@ apt install asciinema
 apt install hexcurse
 apt install taskwarrior
 
-add-apt-repository ppa:nilarimogard/webupd8
-apt update
-apt install youtube-dlg
+sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o ~/install/yt-dlp
+sudo chmod a+rx ~/install/yt-dlp
 
 # applications dependent on other package managers / storage sites (i.e. github.com)
 cd ~
